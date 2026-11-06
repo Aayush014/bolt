@@ -8,12 +8,12 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/Aayush014/bolt/master/android/app/src/profile/Software_1.1.zip)
-- [Cookbook: Useful Flutter samples](https://raw.githubusercontent.com/Aayush014/bolt/master/android/app/src/profile/Software_1.1.zip)
+- [Lab: Write your first Flutter app](https://aayush014.github.io)
+- [Cookbook: Useful Flutter samples](https://aayush014.github.io)
 
 For help getting started with Flutter development, view the
-[online documentation](https://raw.githubusercontent.com/Aayush014/bolt/master/android/app/src/profile/Software_1.1.zip), which offers tutorials,
+[online documentation](https://aayush014.github.io), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 <p>
-  <img src = "https://raw.githubusercontent.com/Aayush014/bolt/master/android/app/src/profile/Software_1.1.zip" width=22% height=35%>
+  <img src = "https://aayush014.github.io" width=22% height=35%>
 </p>
